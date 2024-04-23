@@ -1,0 +1,15 @@
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\bin\Debug\net6.0\C.AccesoDatos.deps.json
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\bin\Debug\net6.0\C.AccesoDatos.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\bin\Debug\net6.0\C.AccesoDatos.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\bin\Debug\net6.0\C.EntidadesNegocio.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\bin\Debug\net6.0\C.EntidadesNegocio.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.AssemblyInfo.cs
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.Acceso.18E9268C.Up2Date
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\refint\C.AccesoDatos.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\C.AccesoDatos.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.AccesoDatos\obj\Debug\net6.0\ref\C.AccesoDatos.dll

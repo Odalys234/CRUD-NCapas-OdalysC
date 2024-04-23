@@ -1,0 +1,17 @@
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.LogicaNegocio.deps.json
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.LogicaNegocio.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.LogicaNegocio.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.AccesoDatos.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.EntidadesNegocio.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.AccesoDatos.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\bin\Debug\net6.0\C.EntidadesNegocio.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.AssemblyInfo.cs
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.Logica.76CFA92F.Up2Date
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\refint\C.LogicaNegocio.dll
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\C.LogicaNegocio.pdb
+C:\Users\MINED\Desktop\CRUD_Odalys\C\C.LogicaNegocio\obj\Debug\net6.0\ref\C.LogicaNegocio.dll

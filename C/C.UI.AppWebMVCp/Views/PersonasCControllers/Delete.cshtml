@@ -1,0 +1,63 @@
+﻿@model C.EntidadesNegocio.PersonaC
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="container">
+<h1>Delete</h1>
+
+<h3>Seguro que deseas eliminar este registro?</h3>
+<div>
+    <h4>PersonaC</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NombreC)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ApellidoC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ApellidoC)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaNacimientoC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FechaNacimientoC)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SueldoC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SueldoC)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EstatusC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EstatusC)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ComentarioC)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ComentarioC)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+</div>
